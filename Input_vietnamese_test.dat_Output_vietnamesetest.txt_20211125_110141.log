@@ -1,0 +1,10 @@
+Input file: Input_vietnamese_test.dat
+Output file: Output_vietnamesetest.txt
+Time complete: 2021-Nov-25 11:01:41
+Duration[seconds]: 0.018
+Word count in input file: 28
+Word converted: 7
+Word with errors: 21
+Total number of characters: 123
+Number of characters have been converted: 64
+Number of characters are NOT converted: 59

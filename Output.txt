@@ -1,0 +1,5 @@
+c#at on a mat*.
+bu#g in a rug.
+Invalid Morse code ........ on line 01
+Invalid Morse code ..-... on line 01
+Invalid Morse code .-.-.-.- on line 02
